@@ -1,2 +1,2 @@
 # Offshore_Wind_Energy
-EDA, statistical analysis and statistical models for offshore wind energy
+ETL, EDA, statistical analysis and statistical models for offshore wind energy
